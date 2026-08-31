@@ -25,12 +25,7 @@ The project evolved through multiple iterations into a hardened customer-distrib
 * Detailed search-result evidence
 * Spreadsheet integration
 * Application licensing
-* Customer-specific license generation
-* PyInstaller distribution
-* Separated developer/customer licensing infrastructure
-
-**Latest documented version:** V18 Hardened Distribution Build
-
+  
 ---
 
 ### 💼 LinkedIn Profile Experience Extractor
